@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This NextJS project contains a few components and elements from the Buildkite site, and will be used for in-interview tasks to allow us to get a chance to do some pairing with candidates.
+
 
 ## Getting Started
 
